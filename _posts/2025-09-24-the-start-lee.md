@@ -4,7 +4,7 @@ read_time: true
 show_data: true
 title: "High growth and high value"
 date: 2025-09-24
-img: posts/picture/3.jpg
+img: posts/picture/1.jpg
 tags: [finance]
 author: Zlee
 description: "Know the enemy and know yourself, and you can fight a hundred battles with no danger of defeat."
@@ -38,7 +38,7 @@ description: "Know the enemy and know yourself, and you can fight a hundred batt
 ### 什么是高成长？高价值？
 #### 高成长就是高增长，收入利润的持续高增长，并且预计未来持续高成长。高价值就是同样的成长做芯片的就比做低端制造的更高价值
 
-![孙子兵法](./assets/img/posts/picture/1.jpg)
+![孙子兵法](./assets/img/posts/picture/2.jpg)
 
 风险和收益只和你的认知深度成正比。
 
@@ -58,5 +58,6 @@ description: "Know the enemy and know yourself, and you can fight a hundred batt
 
 速腾聚创 值不值得看一下？这公司我没上市就去看过，成长很高，行业也很好，看什么哪方面
 本人A股港股美股都看，长期跟踪二十支股票，A股最多，港股美股其次。
+
 
 高成长就是主营业务的收入利润增长要至少超过99%的上市公司，为什么这么严格呢？因为大A5000多家上市公司1%也有50多家，还是太多。长期跟踪的股票最多10-20家。高价值什么意思，同样高成长的公司也很多，要从高成长的公司中选择高价值的长期跟踪，传统制造业和半导体比什么更高价值？家电和人工智商比谁更高价值？
